@@ -99,7 +99,7 @@ variable "aks_agent_vm_size" {
 
 variable "kubernetes_version" {
   description = "The version of Kubernetes."
-  default     = "1.12.5"
+  default     = "1.12.8"
 }
 
 variable "aks_service_cidr" {

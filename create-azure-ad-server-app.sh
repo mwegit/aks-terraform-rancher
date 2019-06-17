@@ -2,7 +2,7 @@
 set -e
 
 # load environment variables
-export RBAC_AZURE_TENANT_ID="REPLACE_WITH_YOUR_TENANT_ID"
+export RBAC_AZURE_TENANT_ID="5c0cffdd-687c-4e49-96fe-fcae46ad7e89"
 export RBAC_SERVER_APP_NAME="AKSAADServer2"
 export RBAC_SERVER_APP_URL="http://aksaadserver2"
 # on mac doesn't work, on linux?

@@ -2,7 +2,7 @@
 set -e
 
 # load environment variables
-export RBAC_AZURE_TENANT_ID="f300a60a-7646-46fd-a93e-1bd04da1c89b"
+export RBAC_AZURE_TENANT_ID="5c0cffdd-687c-4e49-96fe-fcae46ad7e89"
 export RBAC_CLIENT_APP_NAME="AKSAADClient3"
 export RBAC_CLIENT_APP_URL="http://aksaadclient3"
 
@@ -10,9 +10,9 @@ export RBAC_CLIENT_APP_URL="http://aksaadclient3"
 # export RBAC_SERVER_APP_OAUTH2PERMISSIONS_ID="COMPLETE_AFTER_SERVER_APP_CREATION"
 # export RBAC_SERVER_APP_SECRET="COMPLETE_AFTER_SERVER_APP_CREATION"
 
-export RBAC_SERVER_APP_ID=
-export RBAC_SERVER_APP_OAUTH2PERMISSIONS_ID=
-export RBAC_SERVER_APP_SECRET=
+export RBAC_SERVER_APP_ID=d2aec4ce-6697-46d5-a056-13776ed6e372
+export RBAC_SERVER_APP_OAUTH2PERMISSIONS_ID=e72cdd89-077a-45a6-96d1-704ed3a56825
+export RBAC_SERVER_APP_SECRET='N=v97Sh4G@93+_7(#3cutekH)JxdzOS('
 
 
 # generate manifest for client application
